@@ -134,3 +134,4 @@ C:\Users\Admin\Desktop\CRUD\CRUD\CRUD_Web\obj\Debug\net8.0\refint\CRUD_Web.dll
 C:\Users\Admin\Desktop\CRUD\CRUD\CRUD_Web\obj\Debug\net8.0\CRUD_Web.pdb
 C:\Users\Admin\Desktop\CRUD\CRUD\CRUD_Web\obj\Debug\net8.0\CRUD_Web.genruntimeconfig.cache
 C:\Users\Admin\Desktop\CRUD\CRUD\CRUD_Web\obj\Debug\net8.0\ref\CRUD_Web.dll
+C:\Users\Admin\Desktop\CRUD\CRUD\CRUD_Web\obj\Debug\net8.0\CRUD_Web.sourcelink.json
