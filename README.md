@@ -17,3 +17,8 @@ Follow these steps to configure the appsettings.json connection string:
         }
 4. Save the appsettings.json file.
 5. Run **Update-Database** Command on Package Manager Console
+
+## Installation
+- .NET Core 8 SDK: Download and install the .NET Core 8 SDK from the official .NET website: https://dotnet.microsoft.com/download
+- Visual Studio 2022: Download and install Visual Studio 2019 from https://visualstudio.microsoft.com/
+- SQL Server Download the SQL Server installer from https://www.microsoft.com/en-us/sql-server/sql-server-downloads.
